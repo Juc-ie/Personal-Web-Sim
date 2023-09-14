@@ -1,0 +1,59 @@
+.link-button{
+    display: inline-block;
+    text-align: center;
+    margin: 0 10px 0 10px;
+    font-size: 35px;
+
+}
+
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    border-color: black;
+    border-width: 10px;
+    border-style: groove;
+    border-radius: 30px;
+    background-color: white;
+
+}
+
+ul{
+    padding: 0;
+}
+
+.nav-links-container{
+    width: 100%;
+}
+
+.logo-container{
+    display: flex;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 35px;
+}
+.mainbody{
+    height: 100vh;
+    background-color: bisque;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: darkgrey;
+}
+
+body{
+    margin: 0;
+    background-color: bisque;
+}
+.txt{
+    text-align: center;
+}
+.H2home{
+    margin-top: 10vh;
+    font-style: oblique;
+}
+section{
+    border-top: 5px grey solid;
+}
