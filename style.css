@@ -3,7 +3,10 @@
     text-align: center;
     margin: 0 10px 0 10px;
     font-size: 35px;
-
+    color: black;
+}
+.link-button:hover{
+    text-decoration: underline;
 }
 
 .nav-bar{
@@ -56,4 +59,32 @@ body{
 }
 section{
     border-top: 5px grey solid;
+}
+.H2about{
+    margin: 5px;
+}
+#Contacts-grid{
+    display: grid;
+}
+input{
+    width: 120px;
+    margin-left: 50px;
+}
+textarea{
+    width: 150px;
+
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.txt-contact{
+    text-align: center;
+}
+label{
+    margin-left: 30px;
+}
+button{
+    margin-left: 150px;
+    margin-top: 20px;
+    margin-right: 1200px;
+    background-color: grey;
 }
